@@ -10,4 +10,4 @@
 <li>See the result!!</li>
 </ol>
 
-## Note that this calculator can only calculate positive and single digit numbers, also result can onlt be single digits
+## Note that this calculator can only calculate positive and single digit numbers, also result can only be single positive digits
